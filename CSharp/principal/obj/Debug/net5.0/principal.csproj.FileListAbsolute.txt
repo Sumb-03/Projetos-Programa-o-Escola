@@ -1,0 +1,16 @@
+D:\Programação\Projetos Programação Escola\CSharp\principal\bin\Debug\net5.0\principal.exe
+D:\Programação\Projetos Programação Escola\CSharp\principal\bin\Debug\net5.0\principal.deps.json
+D:\Programação\Projetos Programação Escola\CSharp\principal\bin\Debug\net5.0\principal.runtimeconfig.json
+D:\Programação\Projetos Programação Escola\CSharp\principal\bin\Debug\net5.0\principal.runtimeconfig.dev.json
+D:\Programação\Projetos Programação Escola\CSharp\principal\bin\Debug\net5.0\principal.dll
+D:\Programação\Projetos Programação Escola\CSharp\principal\bin\Debug\net5.0\ref\principal.dll
+D:\Programação\Projetos Programação Escola\CSharp\principal\bin\Debug\net5.0\principal.pdb
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.csprojAssemblyReference.cache
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.AssemblyInfoInputs.cache
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.AssemblyInfo.cs
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.dll
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\ref\principal.dll
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.pdb
+D:\Programação\Projetos Programação Escola\CSharp\principal\obj\Debug\net5.0\principal.genruntimeconfig.cache
