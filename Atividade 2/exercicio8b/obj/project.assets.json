@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio 8b\\exercicio 8b.csproj",
-      "projectName": "exercicio 8b",
-      "projectPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio 8b\\exercicio 8b.csproj",
+      "projectUniqueName": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio8b\\exercicio8b.csproj",
+      "projectName": "exercicio8b",
+      "projectPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio8b\\exercicio8b.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio 8b\\obj\\",
+      "outputPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio8b\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,7 +6,16 @@ namespace exercicio_9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int num = 100; num <= 1000; num++)
+            {
+                if (num % 5 == 0)
+                {
+                    if (num % 3 != 0)
+                    {
+                        Console.WriteLine(num); 
+                    }
+                }   
+            }
         }
     }
 }

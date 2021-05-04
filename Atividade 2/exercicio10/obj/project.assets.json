@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio 10\\exercicio 10.csproj",
-      "projectName": "exercicio 10",
-      "projectPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio 10\\exercicio 10.csproj",
+      "projectUniqueName": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio10\\exercicio10.csproj",
+      "projectName": "exercicio10",
+      "projectPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio10\\exercicio10.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio 10\\obj\\",
+      "outputPath": "D:\\Programação\\Projetos Programação Escola\\Atividade 2\\exercicio10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
