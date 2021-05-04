@@ -1,0 +1,16 @@
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.csprojAssemblyReference.cache
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.AssemblyInfoInputs.cache
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.AssemblyInfo.cs
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\bin\Debug\net5.0\ativ2 ex1.exe
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\bin\Debug\net5.0\ativ2 ex1.deps.json
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\bin\Debug\net5.0\ativ2 ex1.runtimeconfig.json
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\bin\Debug\net5.0\ativ2 ex1.runtimeconfig.dev.json
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\bin\Debug\net5.0\ativ2 ex1.dll
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\bin\Debug\net5.0\ref\ativ2 ex1.dll
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\bin\Debug\net5.0\ativ2 ex1.pdb
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.dll
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ref\ativ2 ex1.dll
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.pdb
+D:\Programação\Projetos Programação Escola\CSharp\ativ2 ex1\obj\Debug\net5.0\ativ2 ex1.genruntimeconfig.cache
