@@ -24,6 +24,7 @@ namespace exercicio_8
             {
                 Console.WriteLine(num);
             }
+            Console.ReadKey();
         }
     }
 }

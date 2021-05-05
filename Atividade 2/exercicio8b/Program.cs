@@ -28,6 +28,7 @@ namespace exercicio_8b
                     Console.WriteLine(num);  
                 }   
             }
+            Console.ReadKey();
         }
     }
 }

@@ -34,6 +34,7 @@ namespace exercicio_4
                         Console.WriteLine($"Resultado: {divisão}");
                 break;
             }
+            Console.ReadKey();
         }
     }
 }

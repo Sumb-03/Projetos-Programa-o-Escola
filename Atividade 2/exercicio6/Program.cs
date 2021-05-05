@@ -19,6 +19,8 @@ namespace exercicio_6
                 numero++;
             }
             Console.WriteLine($"A soma dos números pares entre 2 e 200 é: {soma}");
+
+            Console.ReadKey();
         }
     }
 }

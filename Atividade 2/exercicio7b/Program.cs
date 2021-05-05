@@ -41,6 +41,7 @@ namespace exercicio_7b
                     }
                 }
             }
+            Console.ReadKey();
         }
     }
 }

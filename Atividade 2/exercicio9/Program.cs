@@ -16,6 +16,7 @@ namespace exercicio_9
                     }
                 }   
             }
+            Console.ReadKey();
         }
     }
 }

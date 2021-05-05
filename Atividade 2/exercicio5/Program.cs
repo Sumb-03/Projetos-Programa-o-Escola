@@ -48,6 +48,7 @@ namespace exercicio_5
                     Console.WriteLine($"O número {numero2} é impar.");
                 }
             }
+            Console.ReadKey();
         }
     }
 }

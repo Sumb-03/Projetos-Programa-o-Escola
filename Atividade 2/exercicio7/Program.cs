@@ -32,6 +32,8 @@ namespace exercicio_7
                 }
             }
 
+            Console.ReadKey();
+
         }
     }
 }

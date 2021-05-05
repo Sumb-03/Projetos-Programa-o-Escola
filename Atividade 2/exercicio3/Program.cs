@@ -114,7 +114,8 @@ namespace exercicio_3
             float media = soma / 3;
             Console.WriteLine($"A média dos 3 números é {media}.");
 
-            Console.WriteLine("");  
+            Console.WriteLine("");
+            Console.ReadKey();  
         }
     }
 }
